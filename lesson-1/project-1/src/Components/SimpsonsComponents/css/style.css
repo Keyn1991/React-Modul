@@ -1,0 +1,5 @@
+.card {
+    outline: 2px solid #000;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
